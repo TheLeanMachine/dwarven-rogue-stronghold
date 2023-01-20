@@ -16,16 +16,16 @@ class Dwarf {
         return true;
     }
 
-    takeDamage(damage: number) {
+    takeDamage(damage: number): void {
         this._hp += damage;
     }
 
 
-    get name() {
+    get name(): string {
         return this._name;
     }
 
-    get hp() {
+    get hp(): string {
         return this.hp;
     }
 }
