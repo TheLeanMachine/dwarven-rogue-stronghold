@@ -1,5 +1,5 @@
-import { Dwarf } from './domain/entity/Dwarf'
+import { Dwarf } from './domain/entity/Dwarf.js'
 
 let gimli = new Dwarf('Gimli Gloinson', 42);
 
-document.body.textContent = gimli.name();
+console.log("Fuck yalll!");

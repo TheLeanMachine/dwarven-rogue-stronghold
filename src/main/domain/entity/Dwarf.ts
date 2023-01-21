@@ -1,7 +1,7 @@
 /**
  * A member of the dwarven stronghold that is being defended.
  */
-class Dwarf {
+export class Dwarf {
     private _name: string;
     private _initialHp: number;
     private _hp: number;

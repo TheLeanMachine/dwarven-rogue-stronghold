@@ -1,6 +1,10 @@
-# Getting Started 
+# Getting Started on Ubuntu 20.04.5 LTS 
+- Install `unzip`
 - Install [bun](https://bun.sh/)
-- Run...
+- Run `bun install`
+- Run `tsc`
+- Run `bun run ./src/main/drs-server.js`
+
 ```
-    bun install drs.js
+    example code block
 ```
