@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to the Dwarven Rogue Stronghold!"/>
+  <HelloWorld msg="Welcome to the Dwarven Rogue"/>
 </template>
 
 <script>
