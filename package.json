@@ -2,11 +2,10 @@
   "name": "dwarven-rogue-stronghold",
   "module": "index.ts",
   "type": "module",
-  "devDependencies": {
-    "@vue/cli": "^5.0.8"
-  },
   "dependencies": {
     "typescript": "^4.9.4",
     "vue": "^3.2.45"
+  },
+  "devDependencies": {
   }
 }
